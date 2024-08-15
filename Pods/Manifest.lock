@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.9.1)
+  - FlagKit (2.2)
+  - IQKeyboardManagerSwift (7.0.3)
+  - ReachabilitySwift (5.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.6)
+  - FlagKit
+  - IQKeyboardManagerSwift
+  - ReachabilitySwift (~> 5.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FlagKit
+    - IQKeyboardManagerSwift
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  FlagKit: eca7dc89064b0c986302ba9acefad1bf80a435b1
+  IQKeyboardManagerSwift: f9c5dc36cba16ddd2e51fa7d51c34a2e083029b5
+  ReachabilitySwift: 7f151ff156cea1481a8411701195ac6a984f4979
+
+PODFILE CHECKSUM: ff7ad1b9bc80b6abf912002f9ebad11d36249199
+
+COCOAPODS: 1.15.2
